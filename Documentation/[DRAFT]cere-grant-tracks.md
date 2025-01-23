@@ -1,3 +1,4 @@
+################## DRAFT ###############
 # Grant Topics
 
 The Cere Grants Program targets technology-oriented projects of protocol layer and applications that serve a wide range of users. The program provides guidelines for various areas such as runtime modules/chains, development tools, UI development, backend development, cryptography, research, and documentation. 
