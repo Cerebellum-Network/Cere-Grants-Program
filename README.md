@@ -123,36 +123,6 @@ After this period, if the termination proposal receives 3 approvals, regardless 
 
 All funding and other services will be terminated immediately, with no exceptions. If the proposed project is to be reconsidered, a new application process will be required.
 
-## Levels
-
-The Cere Grants Program offers different grant levels to best suit your current stage.
-
-### Level 0 - Maintenance Grants
-
-Maintenance Grants allow users to contribute to the Cere Network ecosystem by working on small new features or fixing bugs in open-source libraries that have gone out of date. Rolling grants are awarded on a monthly basis as long as the work meets the required quality standard.
-
-- Target: Individuals
-- Amount: Up to $5,000
-- **Approvals Required:** 3
-- **Benefits:** Contribution of open source public goods in and beyond the Cere ecosystem.
-
-### Level 1 - Contributor Grants
-
-Contributor Grants are for developers who are building regular applications needed throughout the ecosystem, more complex tooling, and other relevant forms of research and development within the Cere Network and DDC Ecosystem.
-
-- Target: Individuals and small teams
-- Amount: Up to $10,000
-- **Approvals Required:** 5
-- **Benefits:** Direct impact on the future development of the protocol and ecosystem.
-
-### Level 2 - Start-up Grants
-
-For projects and initiatives providing significantly more value and visibility to the Cere Network and DDC ecosystem.
-
-- Target: Small teams and start-ups
-- Amount: Up to $50,000
-- **Approvals Required:** 8
-- **Benefits:** Project growth opportunities, co-promotional marketing activities, networking and event sponsorships.
 
 # Team
 
@@ -164,21 +134,9 @@ The committee consists of individuals who know the funding priorities of the Cer
 
 In cases where further expertise and opinions is needed, one of the committee members may request such a review.
 
-- …
-- [Chris Ward](https://github.com/calmrat)
+- [Sergey P](https://github.com/spoluyan)
+- [Bren](https://github.com/bren-cere)
 - [Fred Jin](https://github.com/freddiemac)
-
-## Cere Grants Evaluators
-
-Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
-
-- TBD
-
-## Cere Operations Team
-
-The Operations Team takes care of legal documents, invoicing and remittances.
-
-- TBD
 
 # Attribution
 
