@@ -110,4 +110,4 @@ Prior Work:
 ---
 
 ⚠️ Terms Acceptance:  
-We confirm acceptance of [Cere Grants Terms & Conditions](https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/dev/terms-and-conditions.md).
+We confirm acceptance of [Cere Grants Terms & Conditions](https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/dev/terms-and-conditions.md)
