@@ -36,7 +36,7 @@ We also have a code of conduct that we take seriously. Based on this, we may nee
 
 ## Project Ideas
 
-To get an overview of existing projects in the Cere Technology Stack and to find broad project ideas that we would potentially be interested in funding, please refer to the [Grant Tracks file](https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/Documentation/cere-grant-tracks.md).
+To get an overview of existing projects in the Cere Technology Stack and to find broad project ideas that we would potentially be interested in funding, please refer to the [Grant Tracks file](https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/Documentation/%5BDRAFT%5Dcere-grant-tracks.md).
 
 If you have a great idea but are unsure about the technical challenges involved, don't worry! You can always reach out to us at `community@cere.io` or on [Discord](https://discord.gg/fHjR59hABU) for feedback and advice before applying or pushing a PR against the Grant Tracks file. We're happy to consider new ideas!
 
